@@ -14,6 +14,7 @@ if activity2 == "wait":
 else:
     print("GAME OVER! You have been attacked by a Trout")
     exit()
+      
 
 print("Look carefully, an island is poping from the lake and now you have 3 doors in fleront of you")
 activity3 = input("Type the correct door to the room where the treasure is\nYou have 3 options - 'Red', 'Blue', and 'Yellow'\n")
